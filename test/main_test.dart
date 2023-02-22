@@ -18,7 +18,7 @@ void main() {
   print("Nama Dosen Wali : $wali!");
   // print("Input Nama Dosen Wali : ");
   // String nama = stdin.readLineSync() as String;
-
+  //
   print("Masukkan jumlah mahasiswa : ");
   int jumlah = stdin.readLineSync() as int;
 
